@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "scalebase",
+    "name": "scalebase",
+    "description": "long live scale1337",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["scale", "i think i stole the build.gradle"],
+    "credits": "whoever i stole build.gradle from",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
