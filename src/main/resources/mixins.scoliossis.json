@@ -4,7 +4,5 @@
   "refmap": "mixins.mushroom.refmap.json",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-  ],
-  "client": [
   ]
 }
